@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvilConsultant
 - 👀 I’m interested in web scraping, data and analytics, retail, eCommerce, python
-- 🌱 I’m currently learning ScraPy and Flask
+- 🌱 I’m currently working on Flask, Flask-Appbuilder, python wrappers for APIs, and webscraping
 - 📫 You can reach me by opening an issue on one of my repos.
 
 ## About
